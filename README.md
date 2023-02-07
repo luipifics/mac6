@@ -1067,7 +1067,7 @@ http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1G
 http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxz7K7K842JfhMM-XQawQXmCS4q9-oHGGSWEr39Aqw5s8W0P3CF-EBSrophMBkvQs7U?ext=.ts
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES SD
 http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxycZSQxlQ6meB8b_4USSGs5ejkNK1MyqTqNCHSzMRkcTtGshb2e7wUW_QMvJcwjt8U?ext=.ts
-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPACE SD
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPACE SD
 http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxy73pA7krH1aLidQe3hdvhxxGmBszXdcPWx_AzD6Y6GHpclNZFxuggTQYuEw5h16MM?ext=.ts
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPACE HD
 http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxw0QYgr1BZWTXUmKRFgCGpShunQ3JD1gc2zMCYfC2tpztRE_1IDIjgx_D5SAdI8tAE?ext=.ts
