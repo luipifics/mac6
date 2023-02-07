@@ -1047,3 +1047,40 @@ http://193.107.202.221:81/play/live.php?mac=00:1a:79:c6:6c:d2&stream=1081287&ext
 http://193.107.202.221:81/play/live.php?mac=00:1a:79:c6:6c:d2&stream=1081286&extension=ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT: UNIMAS FHD" tvg-logo="https://logo.iptveditor.com/unimas.png" group-title="INT | LATIN AMERICA",LAT: UNIMAS FHD
 http://193.107.202.221:81/play/live.php?mac=00:1a:79:c6:6c:d2&stream=672544&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS lozanostv
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:c6:6c:d2&stream=672544&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SIMPSON
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzpd_jHqNiZTqs-cOsfZJeYCloOqfrjivRX0Z20sZgq25SMmHbkEa3Lsvn76tTIoaY?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SIMPSON 2
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxyvXSVmnQz71kxnT2luxvdNWb1OFGaE1PmejR27OGKVFnJiRKAqDDO05NApwEWROzc?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DINOSAURIOS
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxwY6UlFXWz-anpW4AnnbNnSJskyV5R7PJPlMUmoZSLxPpLgFn4XdCkDcyoH66HER-o?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RETRO TV
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzI3HpOlFjCDJu1ynfn3rnhkXxcrswFyid19_kbB9KnwfDzwGjra2n8NWZ-3vlZDdQ?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN HD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxxwCArnp-6CfJrVk3E4BntLZNpzilIoZQXbWjaCDoK7vH_1rz9cES8vHrms_ux8cRo?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN HD 2
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzbTLBoFtva65f6_APRDRFxgP6dCpm6O69sU6ZtzHNOUds_fKyJ1L-uzRd3Pw_nTNA?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN SD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzMwTDVpGavDoHRoY04nhsCHDRzimhQ9qPwgvuqOvXY81-WDZlmoqguPeAShLOczmk?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SEIES HD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxz7K7K842JfhMM-XQawQXmCS4q9-oHGGSWEr39Aqw5s8W0P3CF-EBSrophMBkvQs7U?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TMT SERIES SD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxycZSQxlQ6meB8b_4USSGs5ejkNK1MyqTqNCHSzMRkcTtGshb2e7wUW_QMvJcwjt8U?ext=.ts
+logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPACE SD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxy73pA7krH1aLidQe3hdvhxxGmBszXdcPWx_AzD6Y6GHpclNZFxuggTQYuEw5h16MM?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPCE HD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxw0QYgr1BZWTXUmKRFgCGpShunQ3JD1gc2zMCYfC2tpztRE_1IDIjgx_D5SAdI8tAE?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMAX HD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxysef8P-peYsDsBNl4fxUrGJl_uQ_K4Tdn0WgZwkxvfyTL_FlPuRpAilXZevvklMO8?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMAX SD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxxvwBrUDsGOoP0so6IK_0rv6zu9dMvYAu0jqg1FBrMBGwas2VHacEh1BPJaP0m3JEY?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINE CLASICO
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxxlsMxQ2jhiRam4If-2F9Lcn3O5845L9zSCjwWawxwq_WSv6ZBScoF82adjImxwefg?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINE INFANTIL
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxy3FeeYJvJQX4ZBNbaLBpHqwqTq2g149WP6FczfcGUB-13jzQXSgEipzdSA3udhS3w?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINE INFANTIL 2
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxw4kcWXaPW0jVmzedLinTjNQ8AU4M3gYWpzKS7s1ycFlJ_YuQFO-GST3qbFlCDyN1E?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS
+
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS
