@@ -1081,6 +1081,479 @@ http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1G
 http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxy3FeeYJvJQX4ZBNbaLBpHqwqTq2g149WP6FczfcGUB-13jzQXSgEipzdSA3udhS3w?ext=.ts
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINE INFANTIL 2
 http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxw4kcWXaPW0jVmzedLinTjNQ8AU4M3gYWpzKS7s1ycFlJ_YuQFO-GST3qbFlCDyN1E?ext=.ts
-#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS nxtplay.xyz
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221105
+#EXTINF:-1 tvg-id="" tvg-name="America_24 (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/d28885ef-e61d-48f8-9255-9deb6647bdad.png" group-title="Argentina",America_24 (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221137
+#EXTINF:-1 tvg-id="" tvg-name="Atreseries (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/438913b0e48890c0453bee096516bb50" group-title="Argentina",Atreseries (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221132
+#EXTINF:-1 tvg-id="" tvg-name="C5N (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/8c62cf60-3e6c-49de-8970-819ae576ce20.png" group-title="Argentina",C5N (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221127
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon_Network (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/b2de9e7d-1833-4a8e-9a2d-1160a79624dc.png" group-title="Argentina",Cartoon_Network (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221124
+#EXTINF:-1 tvg-id="" tvg-name="CNN_en_Espanol (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/ad15e57f11fa7b3ab201de73f0a1f223" group-title="Argentina",CNN_en_Espanol (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221121
+#EXTINF:-1 tvg-id="" tvg-name="Comedy_Central (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/06b6ead1c829f6e109c7fbcb8bb58a46" group-title="Argentina",Comedy_Central (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221120
+#EXTINF:-1 tvg-id="" tvg-name="DeporTV_HD (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/a2a85cac-531e-4089-a94e-53deb433ded5.png" group-title="Argentina",DeporTV_HD (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221118
+#EXTINF:-1 tvg-id="" tvg-name="Discovery_Channel (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/20e4c528-a847-4675-a9e0-95c26d30088b.png" group-title="Argentina",Discovery_Channel (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221117
+#EXTINF:-1 tvg-id="" tvg-name="Discovery_ID (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/76425938-9936-4f15-9fab-bcb0a34a206e.png" group-title="Argentina",Discovery_ID (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221116
+#EXTINF:-1 tvg-id="" tvg-name="Disney_Channel_Sur (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/f9cbc343-872c-4073-a549-07355f8444e3.png" group-title="Argentina",Disney_Channel_Sur (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221114
+#EXTINF:-1 tvg-id="" tvg-name="E!_Entertainment (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/f4ce1fdf-abab-4f23-9620-af19158078b4.png" group-title="Argentina",E!_Entertainment (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221111
+#EXTINF:-1 tvg-id="" tvg-name="El_trece (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/d8b79b0a-9f39-48d1-9f2e-de3142d20658.png" group-title="Argentina",El_trece (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221109
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/e13e9786-79c6-4bcd-82d6-0d72c6b709b8.png" group-title="Argentina",Encuentro (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221108
+#EXTINF:-1 tvg-id="" tvg-name="H2_History (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/bd3850e9-d2cc-4d28-935d-3144fbb27b0e.png" group-title="Argentina",H2_History (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221106
+#EXTINF:-1 tvg-id="" tvg-name="History_Channel (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/c8a100d3be72502b0fbd107b1c8cfc07" group-title="Argentina",History_Channel (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221105
+#EXTINF:-1 tvg-id="" tvg-name="HOLATV (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/be691ee67b8f01898410dc5ff89bf32e" group-title="Argentina",HOLATV (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221104
+#EXTINF:-1 tvg-id="" tvg-name="HTV (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/300524e7-2d49-4a2c-a1e2-26c94c5ef395.png" group-title="Argentina",HTV (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221103
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png/revision/latest?cb=20200711033423" group-title="Argentina",ARG: TYC Sports
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221101
+#EXTINF:-1 tvg-id="" tvg-name="National_Geographic (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/b5a4882b-fdee-412b-b3cc-7839b3047a14.png" group-title="Argentina",National_Geographic (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221099
+#EXTINF:-1 tvg-id="" tvg-name="Paramount_Channel_HD (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/f30511e4-0495-4bf3-aaf4-d1188c9b615b.png" group-title="Argentina",Paramount_Channel_HD (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221095
+#EXTINF:-1 tvg-id="" tvg-name="RAI_International_Spanish (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/09e71176-0a3b-4911-8342-cf2ed6a9e57e.png" group-title="Argentina",RAI_International_Spanish (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221093
+#EXTINF:-1 tvg-id="" tvg-name="Sony (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/05fb9dc8-c083-414f-a525-4167beaf9de5.png" group-title="Argentina",Sony (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221091
+#EXTINF:-1 tvg-id="" tvg-name="TBS (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/9b973ff6d8264e0fefe9229dfb303b05" group-title="Argentina",TBS (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221090
+#EXTINF:-1 tvg-id="" tvg-name="Telefe_HD (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/27a65d21-cd40-488d-b034-851d18b2f059.png" group-title="Argentina",Telefe_HD (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221089
+#EXTINF:-1 tvg-id="" tvg-name="TNT (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/5e14f833acc544e4fd36643b0680fa56" group-title="Argentina",TNT (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221086
+#EXTINF:-1 tvg-id="" tvg-name="TNT_series (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/766dbe4658ec4ef8d91d9180984da7e7" group-title="Argentina",TNT_series (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221085
+#EXTINF:-1 tvg-id="" tvg-name="Volver (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/5b18bdb5-cef0-41a2-9bb7-8e1093971401.png" group-title="Argentina",Volver (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221083
+#EXTINF:-1 tvg-id="" tvg-name="ESPN (ARG)GENTINA_HD_AR" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/0b1f0381-740e-4d39-aa79-a6e4d57a720b.png" group-title="Argentina",ESPN (ARG)GENTINA_HD_AR
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221077
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3 (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/4bde9fb7-d0de-4acc-a855-70b85e1ab743.png" group-title="Argentina",ESPN3 (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221076
+#EXTINF:-1 tvg-id="" tvg-name="ESPN_2 (ARG)gentina_HD_AR" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/a9f205d5-9e2f-4371-a1e2-2723645148ff.png" group-title="Argentina",ESPN_2 (ARG)gentina_HD_AR
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221075
+#EXTINF:-1 tvg-id="" tvg-name="ESPN_Extra (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/804d16ea-db74-44c1-a2e1-0c5d99a02cec.png" group-title="Argentina",ESPN_Extra (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221074
+#EXTINF:-1 tvg-id="" tvg-name="Fox_Sports_2 (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/97ce79bd-c764-4a05-8e5f-88381eb40b0f.png" group-title="Argentina",Fox_Sports_2 (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221073
+#EXTINF:-1 tvg-id="" tvg-name="FOX_Sports_3 (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/edfae32b395021688f1c539218c0e565" group-title="Argentina",FOX_Sports_3 (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221072
+#EXTINF:-1 tvg-id="" tvg-name="Fox_Sports_America (ARG)gentina_AR" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/5e0d592c-0006-4107-b7f9-82372a3c64e6.png" group-title="Argentina",Fox_Sports_America (ARG)gentina_AR
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221071
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/91219067-0362-45cc-bf36-ed3a65f47746.png" group-title="Argentina",Cinemax (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221066
+#EXTINF:-1 tvg-id="" tvg-name="HBO (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/4833e412-2a80-4575-951c-d7cf825495a1.png" group-title="Argentina",HBO (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221064
+#EXTINF:-1 tvg-id="" tvg-name="HBO_2 (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/3867787eb372dc6eb595fdf629fa602f" group-title="Argentina",HBO_2 (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221063
+#EXTINF:-1 tvg-id="" tvg-name="HBO_Plus (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/96f385d5-5639-46ae-8587-b8af15544589.png" group-title="Argentina",HBO_Plus (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221062
+#EXTINF:-1 tvg-id="" tvg-name="Space (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/e6403357-9f8f-4650-9ffe-803eb2e6d0b3.png" group-title="Argentina",Space (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221061
+#EXTINF:-1 tvg-id="" tvg-name="Star_Life (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/8c7287e4-916a-45a4-87e9-a707eb3cf4cd.png" group-title="Argentina",Star_Life (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221059
+#EXTINF:-1 tvg-id="" tvg-name="Studio_Universal (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/32b7df0b713be38216c72ad54f5c4ec3" group-title="Argentina",Studio_Universal (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221058
+#EXTINF:-1 tvg-id="" tvg-name="Warner_Channel (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/f055505c678118c1c2717c73ec23f750" group-title="Argentina",Warner_Channel (ARG)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/221056
+#EXTINF:-1 tvg-id="" tvg-name="AMC Mexico_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/4cf7e74c-a9fc-4288-b8bf-571faa062f25.png" group-title="Mexico",AMC Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216057
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network_Mexico_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/e5935c3a-965e-4d29-b9b3-bbe295525017.png" group-title="Mexico",Cartoon Network_Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216055
+#EXTINF:-1 tvg-id="" tvg-name="CineCanal Mex_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/1bbc3b54-ff94-4c6d-82ed-8e0ba6c74a1c.png" group-title="Mexico",CineCanal Mex_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216054
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Mexico_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/b34b3301-4f47-4426-b40b-cc39c357da64.png" group-title="Mexico",Cinemax Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216053
+#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/8e5e1f3d02369774e0c9f2d00b83332f" group-title="Mexico",CNN Internacional  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216052
+#EXTINF:-1 tvg-id="" tvg-name="CNN Mexico  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/a54560f4-0d21-47ab-9815-9f0aa1f2efd8.png" group-title="Mexico",CNN Mexico  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216051
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel_Mexico  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/20e4c528-a847-4675-a9e0-95c26d30088b.png" group-title="Mexico",Discovery Channel_Mexico  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216050
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/34fd15c7b95cc9faf6154c64f4c1e5ef" group-title="Mexico",Discovery Turbo  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216047
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/f1256e0f1b16374459e02661296db750" group-title="Mexico",Discovery World  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216046
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/13309213-27f4-46fc-8a2a-a46546a6d482.png" group-title="Mexico",E! Entertainment_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216042
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/b397b90d3a6bf157ed6863fcc4ab0f03" group-title="Mexico",El Gourmet  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216041
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/3a98dc0e25f7c84be3f59912bbdf9594" group-title="Mexico",Europa Europa  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216040
+#EXTINF:-1 tvg-id="" tvg-name="Food Network  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/6e371fcdfddf417048f99b64f1cbb1fa" group-title="Mexico",Food Network  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216039
+#EXTINF:-1 tvg-id="" tvg-name="FX Latin_America_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/e7ad9664-a939-45e3-80a1-7ce8ec219924.png" group-title="Mexico",FX Latin_America_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216038
+#EXTINF:-1 tvg-id="" tvg-name="H2 History_Mex  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/541e514a-f7a0-4789-a389-cbcbec545fd9.png" group-title="Mexico",H2 History_Mex  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216037
+#EXTINF:-1 tvg-id="" tvg-name="History Channel_Mexico_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/44f6bf57-988f-40da-81af-b1b919f2f767.png" group-title="Mexico",History Channel_Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216036
+#EXTINF:-1 tvg-id="" tvg-name="ID HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/286e7502-3ce9-4edd-9e54-11c43638c346.png" group-title="Mexico",ID HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216035
+#EXTINF:-1 tvg-id="" tvg-name="Imagen TV_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/766bc690-0c7f-4050-b3ab-9376d7860788.png" group-title="Mexico",Imagen TV_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216034
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/4495e1b0-f145-42e6-9696-ffb545140c7b.png" group-title="Mexico",Lifetime HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216033
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/c3e64905-0396-4bd5-9e10-5514da144c9c.png" group-title="Mexico",Mas Chic  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216032
+#EXTINF:-1 tvg-id="" tvg-name="MTV Latino_Norte_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/7819f028-6d3b-4f79-81f1-e27dcdab3ad8.png" group-title="Mexico",MTV Latino_Norte_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216031
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/fc6f3284-d97b-41e0-92c7-9380f8015fb0.png" group-title="Mexico",NatGeo Wild  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216030
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Latin_America_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/e0bfaa56-fd07-4573-b2dc-3dbe6380b6ae.png" group-title="Mexico",Nickelodeon Latin_America_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216027
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones TV_Latin_America  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/615b57a3-4eba-4580-988f-8466bae759de.png" group-title="Mexico",Pasiones TV_Latin_America  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216026
+#EXTINF:-1 tvg-id="" tvg-name="Sony MX_West_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/dcaa145e-c84f-4710-b57e-73193e68d72f.png" group-title="Mexico",Sony MX_West_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216025
+#EXTINF:-1 tvg-id="" tvg-name="TLC Mexico_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/09807216-3a99-40af-9da0-1a0d1800de56.png" group-title="Mexico",TLC Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216024
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/253f47ed-242c-461b-8784-66c25064faf5.png" group-title="Mexico",TNT Series  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216023
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2_Mexico  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/37c0ebcf-38d5-48df-b9d1-e7be77507503.png" group-title="Mexico",ESPN 2_Mexico  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216022
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/804d16ea-db74-44c1-a2e1-0c5d99a02cec.png" group-title="Mexico",ESPN Extra  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216021
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Mexico  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/38018586-37d0-4a94-b198-b2eae637ec4d.png" group-title="Mexico",ESPN Mexico  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216020
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Tres_North_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/2731c5f0-b768-4ba1-aec2-d2bfc36fb9ab.png" group-title="Mexico",ESPN Tres_North_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216019
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports2_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/3951edfa-6550-423a-aa68-19776642adea.png" group-title="Mexico",Fox Sports2_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216018
+#EXTINF:-1 tvg-id="" tvg-name="FX Movies_Oeste_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/57bca4f4-9101-45a4-b9b5-cdcedab9c5de.png" group-title="Mexico",FX Movies_Oeste_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216017
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD_Mexico  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/2a733417-bbdc-4e70-9c3b-6e7288eb5d34.png" group-title="Mexico",HBO2 HD_Mexico  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216012
+#EXTINF:-1 tvg-id="" tvg-name="Space Latin_Am_Mexico_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/544db56e-b467-4e23-877a-7abd00b60954.png" group-title="Mexico",Space Latin_Am_Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216011
+#EXTINF:-1 tvg-id="" tvg-name="Star Action  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/00f00921-29f7-42b9-adef-b5d7b25ff2ab.png" group-title="Mexico",Star Action  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216010
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/b0cc1d57-648b-44b6-a582-ddfffc8cb612.png" group-title="Mexico",Star Channel  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216009
+#EXTINF:-1 tvg-id="" tvg-name="Star Cinema  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/94a458ff-1c1f-4827-b4e4-59644e19ab22.png" group-title="Mexico",Star Cinema  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216008
+#EXTINF:-1 tvg-id="" tvg-name="Star Classics  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/5d7d4932-0535-49fe-bfcf-288685cdddd2.png" group-title="Mexico",Star Classics  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216007
+#EXTINF:-1 tvg-id="" tvg-name="Star Comedy  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/80336222-7e82-4050-9f69-39a8e3967e9b.png" group-title="Mexico",Star Comedy  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216006
+#EXTINF:-1 tvg-id="" tvg-name="Star Fun  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/e9cf58c6-879f-43b2-9e40-c8d5df8b0608.png" group-title="Mexico",Star Fun  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216005
+#EXTINF:-1 tvg-id="" tvg-name="Star Hits  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/86dec652-dc82-4ca8-b8c1-4e7bb1c9e95e.png" group-title="Mexico",Star Hits  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216004
+#EXTINF:-1 tvg-id="" tvg-name="Star Series  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/c69bd61f-cc01-4766-b9b5-76255e3a2f37.png" group-title="Mexico",Star Series  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216003
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/c1995fe3-66c0-4ef8-86ef-2b2e32908adb.png" group-title="Mexico",Studio Universal_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216002
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/c1e48866-3022-483a-993f-7c1ef0f5fa39.png" group-title="Mexico",Universal TV  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216001
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel_Mexico_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/2082c005-e8db-4b66-8313-249e1cc96244.png" group-title="Mexico",Warner Channel_Mexico_HD  (MEX)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/216000
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CDF BASICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CDF_Logo.svg/1200px-CDF_Logo.svg.png" group-title="Chile",SUR | CDF BASICO
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300329
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CDO BASICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="Chile",SUR | CDO BASICO
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300328
+#EXTINF:-1 tvg-id="" tvg-name="18 | CDF PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="Chile",18 | CDF PREMIUM SD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300327
+#EXTINF:-1 tvg-id="" tvg-name="93 | CDF PREMIUM UHD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="Chile",93 | CDF PREMIUM UHD ®
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300326
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CDF PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CDF_Logo.svg/1200px-CDF_Logo.svg.png" group-title="Chile",SUR | CDF PREMIUM
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300325
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CHV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png" group-title="Chile",SUR | CHV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300324
+#EXTINF:-1 tvg-id="" tvg-name="SUR | MEGA" tvg-logo="https://anthoncode.com/wp-content/uploads/2020/07/logo-mega-nz.png" group-title="Chile",SUR | MEGA
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300323
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CANAL CLARO" tvg-logo="https://deultimahorard.com/wp-content/uploads/2020/04/claro.png" group-title="Chile",SUR | CANAL CLARO
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300322
+#EXTINF:-1 tvg-id="" tvg-name="08 | ESTADIO TNT SPORTS HD" tvg-logo="https://theme.zdassets.com/theme_assets/240700/dae0ef52ea2086955d824cade19804fb83f9efe2.png" group-title="Chile",08 | ESTADIO TNT SPORTS HD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300321
+#EXTINF:-1 tvg-id="" tvg-name="09 | ESTADIO TNT SPORTS UHD" tvg-logo="https://theme.zdassets.com/theme_assets/240700/dae0ef52ea2086955d824cade19804fb83f9efe2.png" group-title="Chile",09 | ESTADIO TNT SPORTS UHD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300320
+#EXTINF:-1 tvg-id="" tvg-name="35 | TNT SPORTS  CHILE" tvg-logo="" group-title="Chile",35 | TNT SPORTS  CHILE
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300319
+#EXTINF:-1 tvg-id="" tvg-name="90 | TNT SPORTS CHILE #3" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png" group-title="Chile",90 | TNT SPORTS CHILE #3
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300318
+#EXTINF:-1 tvg-id="" tvg-name="10 | TNT SPORTS CHILE #3" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png" group-title="Chile",10 | TNT SPORTS CHILE #3
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300317
+#EXTINF:-1 tvg-id="" tvg-name="54 | TNT SPORTS 3 UHD (CHIL)" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png" group-title="Chile",54 | TNT SPORTS 3 UHD (CHIL)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300316
+#EXTINF:-1 tvg-id="" tvg-name="04 | ESPN HD" tvg-logo="" group-title="Chile",04 | ESPN HD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300315
+#EXTINF:-1 tvg-id="" tvg-name="05 | ESPN HD (CHILE)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Chile",05 | ESPN HD (CHILE)
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300314
+#EXTINF:-1 tvg-id="" tvg-name="06 | TNT SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="Chile",06 | TNT SPORTS FHD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300313
+#EXTINF:-1 tvg-id="" tvg-name="09 |  LA RED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/1200px-La_Red_Logotipo.svg.png" group-title="Chile",09 |  LA RED
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300312
+#EXTINF:-1 tvg-id="" tvg-name="07 | TNT SPORTS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="Chile",07 | TNT SPORTS UHD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300311
+#EXTINF:-1 tvg-id="" tvg-name="10 | TELETRAK HD" tvg-logo="https://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="Chile",10 | TELETRAK HD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300310
+#EXTINF:-1 tvg-id="" tvg-name="11 | 24 HORAS" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_m.png" group-title="Chile",11 | 24 HORAS
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300309
+#EXTINF:-1 tvg-id="" tvg-name="12 |  24 HORAS CL" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_m.png" group-title="Chile",12 |  24 HORAS CL
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300308
+#EXTINF:-1 tvg-id="" tvg-name="01 | TVN HD" tvg-logo="https://www.ecured.cu/images/f/f8/Tvn.png" group-title="Chile",01 | TVN HD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300307
+#EXTINF:-1 tvg-id="" tvg-name="02 | TVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVN_HD.svg/1280px-TVN_HD.svg.png" group-title="Chile",02 | TVN HD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300306
+#EXTINF:-1 tvg-id="" tvg-name="03 | MEGA" tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="Chile",03 | MEGA
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300305
+#EXTINF:-1 tvg-id="" tvg-name="01 | DIRECTV SPORTS CHILE" tvg-logo="https://i.pinimg.com/originals/07/f0/fd/07f0fd212afc72fd215d7d3c81251d72.png" group-title="Chile",01 | DIRECTV SPORTS CHILE
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300304
+#EXTINF:-1 tvg-id="" tvg-name="04 | MEGA HD" tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="Chile",04 | MEGA HD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300303
+#EXTINF:-1 tvg-id="" tvg-name="02 | FOX SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Chile",02 | FOX SPORTS 1 HD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300302
+#EXTINF:-1 tvg-id="" tvg-name="03 | FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="Chile",03 | FOX SPORTS 2 HD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300301
+#EXTINF:-1 tvg-id="" tvg-name="06 | CANAL 13 CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_%28Chile%29_logo.svg/1005px-Canal_13_%28Chile%29_logo.svg.png" group-title="Chile",06 | CANAL 13 CHILE
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300300
+#EXTINF:-1 tvg-id="" tvg-name="07 | CNN CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/CNN_Chile_Logo.svg/1280px-CNN_Chile_Logo.svg.png" group-title="Chile",07 | CNN CHILE
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300299
+#EXTINF:-1 tvg-id="" tvg-name="25 | CINE CANAL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Chile",25 | CINE CANAL ®
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300298
+#EXTINF:-1 tvg-id="" tvg-name="81 | CINE LATINO SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_cine-latino_m.png" group-title="Chile",81 | CINE LATINO SD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300297
+#EXTINF:-1 tvg-id="" tvg-name="58 | CINE LATINO" tvg-logo="" group-title="Chile",58 | CINE LATINO
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300296
+#EXTINF:-1 tvg-id="" tvg-name="19 | TV CHILE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="Chile",19 | TV CHILE HD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/300295
+#EXTINF:-1 tvg-id="" tvg-name="chil: Radio Fiessta" tvg-logo="" group-title="Chile",chil: Radio Fiessta
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293428
+#EXTINF:-1 tvg-id="" tvg-name="chil: VTV" tvg-logo="" group-title="Chile",chil: VTV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293426
+#EXTINF:-1 tvg-id="" tvg-name="chil: U Chile TV" tvg-logo="" group-title="Chile",chil: U Chile TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293424
+#EXTINF:-1 tvg-id="" tvg-name="chil: UCV 2" tvg-logo="" group-title="Chile",chil: UCV 2
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293423
+#EXTINF:-1 tvg-id="" tvg-name="chil: UCV" tvg-logo="" group-title="Chile",chil: UCV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293422
+#EXTINF:-1 tvg-id="" tvg-name="chil: Radio Maqui" tvg-logo="" group-title="Chile",chil: Radio Maqui
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293421
+#EXTINF:-1 tvg-id="" tvg-name="chil:  Recuerdos Retro Radio TV" tvg-logo="" group-title="Chile",chil:  Recuerdos Retro Radio TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293420
+#EXTINF:-1 tvg-id="" tvg-name="chil: Energia TV" tvg-logo="" group-title="Chile",chil: Energia TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293419
+#EXTINF:-1 tvg-id="" tvg-name="chil: Ñublevision" tvg-logo="" group-title="Chile",chil: Ñublevision
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293418
+#EXTINF:-1 tvg-id="" tvg-name="chil: Telecanal Talca" tvg-logo="" group-title="Chile",chil: Telecanal Talca
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293417
+#EXTINF:-1 tvg-id="" tvg-name="chil: Telecanal Santa Cruz" tvg-logo="" group-title="Chile",chil: Telecanal Santa Cruz
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293416
+#EXTINF:-1 tvg-id="" tvg-name="chil: TecTV" tvg-logo="" group-title="Chile",chil: TecTV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293414
+#EXTINF:-1 tvg-id="" tvg-name="chil: Holvoet TV" tvg-logo="" group-title="Chile",chil: Holvoet TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293412
+#EXTINF:-1 tvg-id="" tvg-name="chil: CHV Noticias" tvg-logo="" group-title="Chile",chil: CHV Noticias
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293411
+#EXTINF:-1 tvg-id="" tvg-name="chil: Radiomania" tvg-logo="" group-title="Chile",chil: Radiomania
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293410
+#EXTINF:-1 tvg-id="" tvg-name="chil:  Cloud FM" tvg-logo="" group-title="Chile",chil:  Cloud FM
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293409
+#EXTINF:-1 tvg-id="" tvg-name="chil:  Zapping Music" tvg-logo="" group-title="Chile",chil:  Zapping Music
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293408
+#EXTINF:-1 tvg-id="" tvg-name="chil:   TV vconline" tvg-logo="" group-title="Chile",chil:   TV vconline
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293407
+#EXTINF:-1 tvg-id="" tvg-name="chil: 13 Teleseries" tvg-logo="" group-title="Chile",chil: 13 Teleseries
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293406
+#EXTINF:-1 tvg-id="" tvg-name="chil:  13 Prime" tvg-logo="" group-title="Chile",chil:  13 Prime
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293405
+#EXTINF:-1 tvg-id="" tvg-name="chil:  13 Entretencion" tvg-logo="" group-title="Chile",chil:  13 Entretencion
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293404
+#EXTINF:-1 tvg-id="" tvg-name="chil: 13 Cultura" tvg-logo="" group-title="Chile",chil: 13 Cultura
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293403
+#EXTINF:-1 tvg-id="" tvg-name="chil: ANTV" tvg-logo="" group-title="Chile",chil: ANTV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293401
+#EXTINF:-1 tvg-id="" tvg-name="chil: 24 Horas" tvg-logo="" group-title="Chile",chil: 24 Horas
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293398
+#EXTINF:-1 tvg-id="" tvg-name="chil:  VClassicTV" tvg-logo="" group-title="Chile",chil:  VClassicTV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293395
+#EXTINF:-1 tvg-id="" tvg-name="chil: Radio Lado Oscuro TV" tvg-logo="" group-title="Chile",chil: Radio Lado Oscuro TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293394
+#EXTINF:-1 tvg-id="" tvg-name="chil:  EnerGeek" tvg-logo="" group-title="Chile",chil:  EnerGeek
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293392
+#EXTINF:-1 tvg-id="" tvg-name="chil: MÁS TV" tvg-logo="" group-title="Chile",chil: MÁS TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293391
+#EXTINF:-1 tvg-id="" tvg-name="chil:  Evavisión TV" tvg-logo="" group-title="Chile",chil:  Evavisión TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/293390
+#EXTINF:-1 tvg-id="" tvg-name="CL: Chilevision" tvg-logo="" group-title="Chile",CL: Chilevision
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/176734
+#EXTINF:-1 tvg-id="" tvg-name="CL: 24 Horas" tvg-logo="" group-title="Chile",CL: 24 Horas
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287985
+#EXTINF:-1 tvg-id="" tvg-name="CL: Mega FHD" tvg-logo="" group-title="Chile",CL: Mega FHD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287984
+#EXTINF:-1 tvg-id="" tvg-name="CL: Canal 13" tvg-logo="" group-title="Chile",CL: Canal 13
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287981
+#EXTINF:-1 tvg-id="" tvg-name="chil: Televida" tvg-logo="" group-title="Chile",chil: Televida
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287565
+#EXTINF:-1 tvg-id="" tvg-name="chil: Rewind Tv" tvg-logo="" group-title="Chile",chil: Rewind Tv
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287564
+#EXTINF:-1 tvg-id="" tvg-name="chil: FM HOT" tvg-logo="" group-title="Chile",chil: FM HOT
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287563
+#EXTINF:-1 tvg-id="" tvg-name="chil: Vallenato Internacional" tvg-logo="" group-title="Chile",chil: Vallenato Internacional
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287562
+#EXTINF:-1 tvg-id="" tvg-name="chil: TV Quellón" tvg-logo="" group-title="Chile",chil: TV Quellón
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287561
+#EXTINF:-1 tvg-id="" tvg-name="chil: Top Latino TV" tvg-logo="" group-title="Chile",chil: Top Latino TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287560
+#EXTINF:-1 tvg-id="" tvg-name="chil: T13" tvg-logo="" group-title="Chile",chil: T13
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287558
+#EXTINF:-1 tvg-id="" tvg-name="chil: SoloBáilalo" tvg-logo="" group-title="Chile",chil: SoloBáilalo
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287557
+#EXTINF:-1 tvg-id="" tvg-name="chil: Radio San Borja TV" tvg-logo="" group-title="Chile",chil: Radio San Borja TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287556
+#EXTINF:-1 tvg-id="" tvg-name="chil: Radio Rancagua FM" tvg-logo="" group-title="Chile",chil: Radio Rancagua FM
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287555
+#EXTINF:-1 tvg-id="" tvg-name="chil: Meganoticias" tvg-logo="" group-title="Chile",chil: Meganoticias
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287553
+#EXTINF:-1 tvg-id="" tvg-name="chil: Hiperconectados Televisión" tvg-logo="" group-title="Chile",chil: Hiperconectados Televisión
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287551
+#EXTINF:-1 tvg-id="" tvg-name="chil: Caracola TV" tvg-logo="" group-title="Chile",chil: Caracola TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287547
+#EXTINF:-1 tvg-id="" tvg-name="chil: Canal 26" tvg-logo="" group-title="Chile",chil: Canal 26
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287546
+#EXTINF:-1 tvg-id="" tvg-name="chil: América Sports" tvg-logo="" group-title="Chile",chil: América Sports
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287544
+#EXTINF:-1 tvg-id="" tvg-name="chil: Wow" tvg-logo="" group-title="Chile",chil: Wow
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287543
+#EXTINF:-1 tvg-id="" tvg-name="chil: Chile 5" tvg-logo="" group-title="Chile",chil: Chile 5
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287542
+#EXTINF:-1 tvg-id="" tvg-name="chil: UTV San Clemente" tvg-logo="" group-title="Chile",chil: UTV San Clemente
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287541
+#EXTINF:-1 tvg-id="" tvg-name="chil: Retro Plus TV 3" tvg-logo="" group-title="Chile",chil: Retro Plus TV 3
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287540
+#EXTINF:-1 tvg-id="" tvg-name="chil: Canal Latino" tvg-logo="" group-title="Chile",chil: Canal Latino
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287538
+#EXTINF:-1 tvg-id="" tvg-name="chil: Alegria TV" tvg-logo="" group-title="Chile",chil: Alegria TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287537
+#EXTINF:-1 tvg-id="" tvg-name="chil: TV Salud" tvg-logo="" group-title="Chile",chil: TV Salud
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287536
+#EXTINF:-1 tvg-id="" tvg-name="chil: Mundo de la Música" tvg-logo="" group-title="Chile",chil: Mundo de la Música
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287535
+#EXTINF:-1 tvg-id="" tvg-name="chil: Ñuble RTV" tvg-logo="" group-title="Chile",chil: Ñuble RTV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287534
+#EXTINF:-1 tvg-id="" tvg-name="chil: Tendencias 31 Prime" tvg-logo="" group-title="Chile",chil: Tendencias 31 Prime
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287533
+#EXTINF:-1 tvg-id="" tvg-name="chil: Pintana TV" tvg-logo="" group-title="Chile",chil: Pintana TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287532
+#EXTINF:-1 tvg-id="" tvg-name="chil: Campus TV" tvg-logo="" group-title="Chile",chil: Campus TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287531
+#EXTINF:-1 tvg-id="" tvg-name="chil: Puncón TV" tvg-logo="" group-title="Chile",chil: Puncón TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287530
+#EXTINF:-1 tvg-id="" tvg-name="chil: U Los Lagos TV" tvg-logo="" group-title="Chile",chil: U Los Lagos TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287529
+#EXTINF:-1 tvg-id="" tvg-name="chil: CEAC TV" tvg-logo="" group-title="Chile",chil: CEAC TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287527
+#EXTINF:-1 tvg-id="" tvg-name="chil: Buin Somos Todos" tvg-logo="" group-title="Chile",chil: Buin Somos Todos
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287526
+#EXTINF:-1 tvg-id="" tvg-name="chil: RedBull Batalla de Gallos" tvg-logo="" group-title="Chile",chil: RedBull Batalla de Gallos
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287525
+#EXTINF:-1 tvg-id="" tvg-name="chil:  Décima TV" tvg-logo="" group-title="Chile",chil:  Décima TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287524
+#EXTINF:-1 tvg-id="" tvg-name="chil: RCK TV" tvg-logo="" group-title="Chile",chil: RCK TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287523
+#EXTINF:-1 tvg-id="" tvg-name="chil: Evavisión Pachanga" tvg-logo="" group-title="Chile",chil: Evavisión Pachanga
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287521
+#EXTINF:-1 tvg-id="" tvg-name="chil: ATV" tvg-logo="" group-title="Chile",chil: ATV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287518
+#EXTINF:-1 tvg-id="" tvg-name="chil: Pauta TV" tvg-logo="" group-title="Chile",chil: Pauta TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287517
+#EXTINF:-1 tvg-id="" tvg-name="chil: Voz de Poder" tvg-logo="" group-title="Chile",chil: Voz de Poder
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287516
+#EXTINF:-1 tvg-id="" tvg-name="chil: Planetatv Kids" tvg-logo="" group-title="Chile",chil: Planetatv Kids
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287513
+#EXTINF:-1 tvg-id="" tvg-name="chil: TV 8" tvg-logo="" group-title="Chile",chil: TV 8
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287511
+#EXTINF:-1 tvg-id="" tvg-name="chil: LRP Televisión" tvg-logo="" group-title="Chile",chil: LRP Televisión
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287510
+#EXTINF:-1 tvg-id="" tvg-name="chil: Canal SCÑ" tvg-logo="" group-title="Chile",chil: Canal SCÑ
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287509
+#EXTINF:-1 tvg-id="" tvg-name="chil: Canal 57 Melipilla" tvg-logo="" group-title="Chile",chil: Canal 57 Melipilla
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287508
+#EXTINF:-1 tvg-id="" tvg-name="chil: CSTV" tvg-logo="" group-title="Chile",chil: CSTV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287507
+#EXTINF:-1 tvg-id="" tvg-name="chil: Cloudserver Kids90" tvg-logo="" group-title="Chile",chil: Cloudserver Kids90
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287506
+#EXTINF:-1 tvg-id="" tvg-name="chil: MÁS+.TV CHILE" tvg-logo="" group-title="Chile",chil: MÁS+.TV CHILE
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287505
+#EXTINF:-1 tvg-id="" tvg-name="chil: TV POP HD" tvg-logo="" group-title="Chile",chil: TV POP HD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287503
+#EXTINF:-1 tvg-id="" tvg-name="chil: TVR" tvg-logo="" group-title="Chile",chil: TVR
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287502
+#EXTINF:-1 tvg-id="" tvg-name="chil:  VC Online" tvg-logo="" group-title="Chile",chil:  VC Online
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287501
+#EXTINF:-1 tvg-id="" tvg-name="chil: Radio Zeta TV" tvg-logo="" group-title="Chile",chil: Radio Zeta TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287500
+#EXTINF:-1 tvg-id="" tvg-name="chil: UATV" tvg-logo="" group-title="Chile",chil: UATV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287499
+#EXTINF:-1 tvg-id="" tvg-name="chil: ADN Radio TV" tvg-logo="" group-title="Chile",chil: ADN Radio TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287495
+#EXTINF:-1 tvg-id="" tvg-name="chil: Teletrak" tvg-logo="" group-title="Chile",chil: Teletrak
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287494
+#EXTINF:-1 tvg-id="" tvg-name="chil: Tevex TV" tvg-logo="" group-title="Chile",chil: Tevex TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287493
+#EXTINF:-1 tvg-id="" tvg-name="chil: HiperTV" tvg-logo="" group-title="Chile",chil: HiperTV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287492
+#EXTINF:-1 tvg-id="" tvg-name="chil: SoloStandUp TV" tvg-logo="" group-title="Chile",chil: SoloStandUp TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287491
+#EXTINF:-1 tvg-id="" tvg-name="chil: UCV3 TV" tvg-logo="" group-title="Chile",chil: UCV3 TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287490
+#EXTINF:-1 tvg-id="" tvg-name="chil: Portalfoxmix TV" tvg-logo="" group-title="Chile",chil: Portalfoxmix TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287489
+#EXTINF:-1 tvg-id="" tvg-name="chil: Ruidos FM" tvg-logo="" group-title="Chile",chil: Ruidos FM
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287488
+#EXTINF:-1 tvg-id="" tvg-name="chil: EnlaceTV" tvg-logo="" group-title="Chile",chil: EnlaceTV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287487
+#EXTINF:-1 tvg-id="" tvg-name="chil: Retro Plus TV 2" tvg-logo="" group-title="Chile",chil: Retro Plus TV 2
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287486
+#EXTINF:-1 tvg-id="" tvg-name="chil: Retro Plus TV" tvg-logo="" group-title="Chile",chil: Retro Plus TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287485
+#EXTINF:-1 tvg-id="" tvg-name="chil: DW Español" tvg-logo="" group-title="Chile",chil: DW Español
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287484
+#EXTINF:-1 tvg-id="" tvg-name="chil: Canal Diputados TV" tvg-logo="" group-title="Chile",chil: Canal Diputados TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287483
+#EXTINF:-1 tvg-id="" tvg-name="chil: Canal 2" tvg-logo="" group-title="Chile",chil: Canal 2
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287482
+#EXTINF:-1 tvg-id="" tvg-name="chil: teleSUR Tv" tvg-logo="" group-title="Chile",chil: teleSUR Tv
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287480
+#EXTINF:-1 tvg-id="" tvg-name="chil: Canal 74" tvg-logo="" group-title="Chile",chil: Canal 74
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287479
+#EXTINF:-1 tvg-id="" tvg-name="chil: Canal 21 Tv" tvg-logo="" group-title="Chile",chil: Canal 21 Tv
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287478
+#EXTINF:-1 tvg-id="" tvg-name="chil: La Red" tvg-logo="" group-title="Chile",chil: La Red
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287477
+#EXTINF:-1 tvg-id="" tvg-name="chil: BBTV" tvg-logo="" group-title="Chile",chil: BBTV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287476
+#EXTINF:-1 tvg-id="" tvg-name="chil: Iquique TV" tvg-logo="" group-title="Chile",chil: Iquique TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287475
+#EXTINF:-1 tvg-id="" tvg-name="chil: Inet TV" tvg-logo="" group-title="Chile",chil: Inet TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287473
+#EXTINF:-1 tvg-id="" tvg-name="chil: Canal VTV" tvg-logo="" group-title="Chile",chil: Canal VTV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287472
+#EXTINF:-1 tvg-id="" tvg-name="chil: ITV Patagonia" tvg-logo="" group-title="Chile",chil: ITV Patagonia
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287471
+#EXTINF:-1 tvg-id="" tvg-name="chil: Polar TV" tvg-logo="" group-title="Chile",chil: Polar TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287470
+#EXTINF:-1 tvg-id="" tvg-name="chil: Canal 5 TV" tvg-logo="" group-title="Chile",chil: Canal 5 TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287469
+#EXTINF:-1 tvg-id="" tvg-name="chil: SextaVisión" tvg-logo="" group-title="Chile",chil: SextaVisión
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287468
+#EXTINF:-1 tvg-id="" tvg-name="chil: Pingüino TV" tvg-logo="" group-title="Chile",chil: Pingüino TV
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/287467
+#EXTINF:-1 tvg-id="" tvg-name="CL: Chilevision FHD" tvg-logo="" group-title="Chile",CL: Chilevision FHD
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/176733
+#EXTINF:-1 tvg-id="" tvg-name="CL: La Red" tvg-logo="" group-title="Chile",CL: La Red
+http://nxtplay.xyz:8080/P9Bm8p8YQA/Tf0hyoqGiW/176728
 
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS
