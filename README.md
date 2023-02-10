@@ -1898,4 +1898,17 @@ http://txm1.flysat.live:2089/152076380441475/152015780931252/198299
 http://txm1.flysat.live:2089/152076380441475/152015780931252/198298
 #EXTINF:-1 tvg-id="" tvg-name="|CHILE| CNN" tvg-logo="" group-title="CL| CHILI",|CHILE| CNN
 http://txm1.flysat.live:2089/152076380441475/152015780931252/198297
-#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LA PANTERA ROSA
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzG3NPDRs684WZ5XlWU4w9o00_7VS1eeorL_LvO-C7hUvM1WhP5Y8Dw1G4Xqr9QWv0?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BOB ESPONJA
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxweOW_mt0HdKgfW4oU3xLP1dZvUAe-Mq2pvwr8sct7jNiiLHlshRROrFluwJu6n6Vg?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS  LONEY TUNES
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxyGQCjqdpcsnVWMqLUNdvlypNJ08arS6R16IH54lSc3zOVUu_msRVmMQAW8kmerYM0?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LOS PICAPIEDRA
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxyy_664FEj18uRGJ9-dbTwMCG0y_OpihrZFDo5CZpVQpihJYT4DbPAE6OFhxYxoBaE?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS  SERIES
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxxDnZF0BENrBoNrfzHtqAvkPld-1nTqi85PBl6F_9qDHpFTk8fQJJsW7nEg2ztRFes?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LA HORA PICO
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzeSPYHnUAKJ7pioE9QOaQ8H30_dJQVMXkjGRIg7-7XG7Bw4v1wHZJa1j5lZjlom5Y?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS  LA FAMILIA PELUCHE
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxxlvBcLrnbzGE7rAUOcuWGS3UGg7-CXTamIZMn48PVJloaRZ-zNtkfHhC-2_9eZW5g?ext=.ts
