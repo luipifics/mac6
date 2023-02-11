@@ -3518,3 +3518,11 @@ http://wavetv.pro:80/play/live.php?mac=00:1A:79:04:C8:C5&stream=553052&extension
 http://wavetv.pro:80/play/live.php?mac=00:1A:79:04:C8:C5&stream=552941&extension=ts
 #EXTINF:-1 tvg-id="mx.WOBI TV" tvg-name="MXC| WOBI HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Wobi-HD.png" group-title="LAT| MEXICO",MXC| WOBI HD
 http://wavetv.pro:80/play/live.php?mac=00:1A:79:04:C8:C5&stream=553053&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS  AXN
+http://v4.epiciptv.com:2000/a6e40b584fd40d7a1da76f/a2f2064252/d29c7f3c27b66d0f69ba/d690793a/64313961376133393236623636383065/35343563356132346536/video.m3u8
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES
+http://v4.epiciptv.com:2000/a6e40b584fd40d7a1da76f/b7e41c5953d6107a11ce76dcd92a/d29c7f3c27b66d0f69ba/d29e72382e/64313961376133393236623636383065/34313461343033666537626236313564323838333537623066393336/video.m3u8
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUPIFICS  SPACE
+http://v4.epiciptv.com:2000/a6e40b584fd40d7a1da76f/b0da296973cc1d/d29c7f3c27b66e0969ba/d490793e/64313961376133393236623636383065/3436373437353066633761313663/video.m3u8
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMAX
+http://v4.epiciptv.com:2000/a6e40b584fd40d7a1da76f/a0e3064f5bc501/d29c7f3c27b66e0969ba/d490793e/64313961376133393236623636383065/3536346435613239656661383730/video.m3u8
